@@ -1,6 +1,6 @@
 # Oyster card data analysis and visualization
 
-Jupyter Notebook <code>oyster.ipynb</code>
+Jupyter Notebook [<code>oyster.ipynb</code>](https://github.com/ZaraTam/oyster/blob/master/oyster.ipynb)
 
 <br>
 
