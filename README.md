@@ -61,5 +61,5 @@ This data set contains digital vector boundaries for counties, metropolitan dist
 
 ## Licence
 
-This project is licensed under the MIT License - see [LICENSE](https://github.com/ZaraTam/oyster/blob/master/LICENSE) for details
+This project is licensed under the GNU General Public License v3.0 - see [LICENSE](https://github.com/ZaraTam/oyster/blob/master/LICENSE) for details
 
