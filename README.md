@@ -52,3 +52,9 @@ This data set is a geo-coded KML feed of most London Underground, DLR and London
 Available for download at: https://data.gov.uk/dataset/county-and-unitary-authority-december-2015-full-extent-boundaries-in-england-and-wales/resource/cf40a4f7-3686-4818-b0ea-79e8b259ea16
 
 This data set contains digital vector boundaries for counties, metropolitan districts, London boroughs and unitary authorities in England and Wales as at December 2015.
+
+
+## Licence
+
+This project is licensed under the MIT License - see [LICENSE](https://github.com/ZaraTam/oyster/blob/master/LICENSE) for details
+
