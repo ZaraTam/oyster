@@ -4,17 +4,19 @@ Jupyter Notebook [<code>oyster.ipynb</code>](https://github.com/ZaraTam/oyster/b
 
 <br>
 
-### Goal
+## Goal
 
 Origin and destination analysis and visualization of Transport for London (TfL) tube journeys based on districts of Greater London
 
 <br>
 
-### Data sets
+## Data sets
 
 Data sets are not hosted on GitHub.
 
-#### Oyster card journey
+<br>
+
+### Oyster card journey
 
 Available for download at: https://api-portal.tfl.gov.uk/docs
 
@@ -39,20 +41,23 @@ Column descriptions
 - RouteID - The Route Number of the Bus, if a Bus has been boarded
 - FinalProduct - Combined Product Description used for journey
 
+<br>
 
-#### TfL station locaitons
+### TfL station locaitons
 
 Available for download at: https://api-portal.tfl.gov.uk/docs
 
 This data set is a geo-coded KML feed of most London Underground, DLR and London Overground stations.
 
+<br>
 
-#### Districts of Greater London
+### Districts of Greater London
 
 Available for download at: https://data.gov.uk/dataset/county-and-unitary-authority-december-2015-full-extent-boundaries-in-england-and-wales/resource/cf40a4f7-3686-4818-b0ea-79e8b259ea16
 
 This data set contains digital vector boundaries for counties, metropolitan districts, London boroughs and unitary authorities in England and Wales as at December 2015.
 
+<br>
 
 ## Licence
 
